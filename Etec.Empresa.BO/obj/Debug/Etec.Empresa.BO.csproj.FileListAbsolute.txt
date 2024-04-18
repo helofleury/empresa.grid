@@ -1,0 +1,6 @@
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\bin\Debug\Etec.Empresa.BO.dll
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\bin\Debug\Etec.Empresa.BO.pdb
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\obj\Debug\Etec.Empresa.BO.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\obj\Debug\Etec.Empresa.BO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\obj\Debug\Etec.Empresa.BO.dll
+C:\Users\aluno\source\repos\Etec.Empresa\Etec.Empresa.BO\obj\Debug\Etec.Empresa.BO.pdb
